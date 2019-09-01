@@ -1,0 +1,17 @@
+{
+  "name": "agenda-smn",
+  "version": "0.0.0",
+  "description": "deploy",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cluster": "^0.7.7",
+    "compression": "^1.7.4",
+    "express": "^4.17.1",
+    "fs": "0.0.1-security"
+  }
+}
